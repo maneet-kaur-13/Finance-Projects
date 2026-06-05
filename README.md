@@ -43,9 +43,6 @@ python app.py --freq_stress 1.25 --sev_stress 1.2 --scenario_name "Combined Stre
 - fixed expenses = 1,200,000
 - capital buffer = 2,500,000
 
-## Interview explanation in one line
-"I used Monte Carlo simulation to generate thousands of possible annual claim outcomes for an insurance portfolio, then measured tail risk with VaR/CVaR and tested whether the available capital buffer remained adequate under stress scenarios."
-
 ## Limitations
 - simplified one-period model
 - no reinsurance layer
