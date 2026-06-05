@@ -1,0 +1,15 @@
+{
+  "scenario": "Custom Scenario",
+  "summary": {
+    "mean_loss": 3822968.1634711656,
+    "std_loss": 570987.4634156837,
+    "p95_var": 4799690.857644292,
+    "p95_cvar": 5062693.109887079,
+    "p99_var": 5224410.3125778325,
+    "p99_cvar": 5453780.782098279,
+    "mean_underwriting_result": 1977031.8365288337,
+    "probability_of_underwriting_loss": 0.0006,
+    "probability_of_ruin": 0.0,
+    "mean_claim_count": 80.0664
+  }
+}
